@@ -5,6 +5,8 @@
 - Elle fonctionne via une interface graphique avec Tkinter, permettant à l'utilisateur d'interagir facilement avec l'application pour obtenir des traductions
 - L'application prend en charge le français (FR) et l'anglais (EN), et permet de consulter les traductions des lettres et des mots via un fichier CSV
 
+---
+
 ### Fonctionnalités
 
 - Traduire des mots et des phrases à partir de lettres romanisées
@@ -13,6 +15,8 @@
 - Un bouton « Aide » pour consulter la liste complète des lettres et leurs traductions
 - Un bouton « Dictionnaire » pour afficher une liste de mots prédéfinis avec leurs traductions
 - Gestion des erreurs de traduction avec des messages explicites pour les lettres non trouvées ou sans traduction
+
+---
 
 ### Mises à jour
 
@@ -26,6 +30,10 @@
 - [À FAIRE] Les fenêtres sont maintenant redimensionnables et n’affichent plus de boîtes vides étranges
 - [À FAIRE] Mode plein écran
 
+---
+
 ### Idées
 
   - J’ai eu l’idée de créer un dictionnaire partagé, mais  pas sûr par rapport à la modération
+
+---
